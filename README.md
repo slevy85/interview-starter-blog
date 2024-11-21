@@ -17,14 +17,15 @@ The project is a Blog Platform where users can browse posts, filter by categorie
 Address the following issues and extend the functionality as described.
 
 - Fix types.
-- Style properly the post list, add more information in the list item like date etc.
+- Fix the category page to filter post by category.
+- Style properly the post list.
+- Style properly the post detail page.
+- Implement SSR for the post detail page.
 - Implement the favorite features using localStorage.
-- Add a category page that filters post by category.
+- Share the layout between pages.
 - Add metadata for SEO:
     Dynamic titles and descriptions based on categories and posts.
     Open Graph metadata for social sharing.
-- Add a post detail page that displays the full content of the post.
-- Style the table of content of the post body and its titles.
 - Fix build.
 
 
